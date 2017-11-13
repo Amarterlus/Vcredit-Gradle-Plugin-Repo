@@ -12,7 +12,7 @@
     }
     dependencies {
         ...
-        classpath 'com.vcredit:vcredit-gradle-plugin:0.0.4'
+        classpath 'com.vcredit:vcredit-gradle-plugin:0.0.1'
         ...
     }
 }
